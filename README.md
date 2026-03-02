@@ -1,6 +1,7 @@
 # Job-Analysis-Dashboard
-## Dashboard Preview
+## Job Analysis Dashboard
 
+![Job Analysis Dashboard](Job%20Analysis.png)
 The Job Analysis Dashboard is an interactive data visualization project designed to analyze job market trends across different states in the United States.
 
 This dashboard provides insights into salary distribution, job availability, and demand for various data-related roles such as Data Scientist, Data Engineer, and Senior Data Scientist.
